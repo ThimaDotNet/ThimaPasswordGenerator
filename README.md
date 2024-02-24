@@ -45,4 +45,4 @@ This project is licensed under the MIT License. Refer to the [LICENSE](LICENSE) 
 
 ## Contact
 
-For inquiries, feedback, or support, please reach out to [Your Name] at [Your Email Address].
+For inquiries, feedback, or support, please reach out to Thima at thimdotnet@gmail.com.
